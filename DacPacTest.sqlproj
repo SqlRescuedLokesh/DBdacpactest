@@ -88,4 +88,7 @@
     <Build Include="dbo\Stored Procedures\usp_Getdata.sql" />
     <Build Include="dbo\Stored Procedures\uspGetConfig1.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="DacPacTest.publish.xml" />
+  </ItemGroup>
 </Project>
