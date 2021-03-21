@@ -62,6 +62,7 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Views\" />
     <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="DacPac" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\IPLTeams.sql" />
@@ -90,5 +91,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="DacPacTest.publish.xml" />
+    <None Include="DacPac\DacPacTest.dacpac" />
   </ItemGroup>
 </Project>
