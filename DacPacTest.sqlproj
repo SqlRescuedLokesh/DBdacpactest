@@ -91,6 +91,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="DacPacTest.publish.xml" />
-    <None Include="DacPac\DacPacTest.dacpac" />
   </ItemGroup>
 </Project>
